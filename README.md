@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marc1k3y" />
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc1k3y)](https://github.com/anuraghazra/github-readme-stats)
