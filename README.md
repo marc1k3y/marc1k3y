@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marc1k3y" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc1k3y&layout=compact&theme=vision-friendly-dark" />
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc1k3y)](https://github.com/anuraghazra/github-readme-stats)
