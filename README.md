@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marc1k3y" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc1k3y&layout=compact&theme=vision-friendly-dark" />
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marc1k3y" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc1k3y&layout=compact&theme=vision-friendly-light" />
+  </div>
 </div>
