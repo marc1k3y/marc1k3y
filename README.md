@@ -1,1 +1,1 @@
-<img src="https://profile-counter.glitch.me/marc1k3y/count.svg" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc1k3y&layout=compact)
